@@ -4,9 +4,6 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-/**
- * Created by sc on 8/9/17.
- */
 public class Solution {
 
     public static boolean validCell(final int x, final int y, final String[] grid, HashSet<Point> visited){
